@@ -1,0 +1,1 @@
+This is a copy of google.com created by myself as an exercise.
